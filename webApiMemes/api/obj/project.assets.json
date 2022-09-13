@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/frncm/projects/swin/webApiMemes/api/api.csproj",
+      "projectUniqueName": "/home/frncm/projects/swin/firstWebApiForClass/webApiMemes/api/api.csproj",
       "projectName": "api",
-      "projectPath": "/home/frncm/projects/swin/webApiMemes/api/api.csproj",
+      "projectPath": "/home/frncm/projects/swin/firstWebApiForClass/webApiMemes/api/api.csproj",
       "packagesPath": "/home/frncm/.nuget/packages/",
-      "outputPath": "/home/frncm/projects/swin/webApiMemes/api/obj/",
+      "outputPath": "/home/frncm/projects/swin/firstWebApiForClass/webApiMemes/api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/frncm/.nuget/NuGet/NuGet.Config"

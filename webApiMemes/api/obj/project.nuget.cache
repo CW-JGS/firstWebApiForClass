@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3GyIVG7qB300H9XhKI3WSq+BlbGRwqNFbN0mVzs7feo64O40kC9YN0YOB9T+2QiRyaHA4WyhTMQOLGo4qr/omQ==",
+  "dgSpecHash": "PsLFGpYLl2h7IhHW+dJl1BMZ+9WXUejHVVIsI5pyZ+cLqfmIPzqfGIOROxO4OG/e9TTWcRM4HhCB97eVF5HnPw==",
   "success": true,
-  "projectFilePath": "/home/frncm/projects/swin/webApiMemes/api/api.csproj",
+  "projectFilePath": "/home/frncm/projects/swin/firstWebApiForClass/webApiMemes/api/api.csproj",
   "expectedPackageFiles": [
     "/home/frncm/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/frncm/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
